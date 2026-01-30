@@ -273,7 +273,5 @@ GROUP BY model;
 
 ## 👤 Author
 
-Developed by [Your Name]
+Developed by Elan Hashem
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
